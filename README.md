@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3429-special-array-i](https://github.com/Di-Abhi/LeetCode/tree/master/3429-special-array-i) |
 ## Math
