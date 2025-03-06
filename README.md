@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Di-Abhi/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Di-Abhi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Di-Abhi/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Di-Abhi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Di-Abhi/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Di-Abhi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Di-Abhi/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Di-Abhi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -90,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Di-Abhi/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
