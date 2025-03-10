@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Di-Abhi/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Di-Abhi/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Di-Abhi/LeetCode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Di-Abhi/LeetCode/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Di-Abhi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Di-Abhi/LeetCode/tree/master/0648-replace-words) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Di-Abhi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Di-Abhi/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Di-Abhi/LeetCode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Di-Abhi/LeetCode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Di-Abhi/LeetCode/tree/master/0648-replace-words) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Di-Abhi/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
