@@ -1,19 +1,15 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int maxLength = 0;
-        int left = 0;
-        int maxCount = 0;
-        Map<Character, Integer> mpp = new HashMap<>();
+        int[] freq = new int[26]; // Frequency array for 'A' to 'Z'
+        int left = 0, maxCount = 0, maxLength = 0;
 
         for (int right = 0; right < s.length(); right++) {
-            char c = s.charAt(right);
-            mpp.put(c, mpp.getOrDefault(c, 0) + 1);
-            maxCount = Math.max(maxCount, mpp.get(c));
+            freq[s.charAt(right) - 'A']++;
+            maxCount = Math.max(maxCount, freq[s.charAt(right) - 'A']);
 
-            
+            // If replacements needed exceed k, shrink the window
             if ((right - left + 1) - maxCount > k) {
-                char leftChar = s.charAt(left);
-                mpp.put(leftChar, mpp.get(leftChar) - 1);
+                freq[s.charAt(left) - 'A']--;
                 left++;
             }
 
