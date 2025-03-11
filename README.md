@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Di-Abhi/LeetCode/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Di-Abhi/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Di-Abhi/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Di-Abhi/LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Di-Abhi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -208,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Di-Abhi/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Di-Abhi/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
