@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Di-Abhi/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Di-Abhi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Di-Abhi/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/Di-Abhi/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Di-Abhi/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Di-Abhi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Di-Abhi/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Di-Abhi/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Di-Abhi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Di-Abhi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Linked List
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Di-Abhi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Di-Abhi/LeetCode/tree/master/0648-replace-words) |
 | [0966-binary-subarrays-with-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Di-Abhi/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Di-Abhi/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Di-Abhi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Di-Abhi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Di-Abhi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Di-Abhi/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Di-Abhi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Di-Abhi/LeetCode/tree/master/3483-alternating-groups-ii) |
