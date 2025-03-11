@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Di-Abhi/LeetCode/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Di-Abhi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/Di-Abhi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Di-Abhi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Di-Abhi/LeetCode/tree/master/0648-replace-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Di-Abhi/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Di-Abhi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Di-Abhi/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Di-Abhi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0648-replace-words](https://github.com/Di-Abhi/LeetCode/tree/master/0648-replace-words) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Di-Abhi/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Di-Abhi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Di-Abhi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Di-Abhi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Di-Abhi/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Di-Abhi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
