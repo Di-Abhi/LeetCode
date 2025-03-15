@@ -4,7 +4,6 @@ class Solution {
         if(n==1){
             return nums[0];
         }
-        int dp[]= new int[n+1];
         int prev2=0;
         int prev1=nums[0];
         int ans=0;
