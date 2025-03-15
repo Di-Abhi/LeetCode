@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Di-Abhi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Di-Abhi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0648-replace-words](https://github.com/Di-Abhi/LeetCode/tree/master/0648-replace-words) |
+| [0747-min-cost-climbing-stairs](https://github.com/Di-Abhi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/Di-Abhi/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Di-Abhi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Di-Abhi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Di-Abhi/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0747-min-cost-climbing-stairs](https://github.com/Di-Abhi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
