@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Di-Abhi/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Di-Abhi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/Di-Abhi/LeetCode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Di-Abhi/LeetCode/tree/master/0456-132-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Di-Abhi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Di-Abhi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0648-replace-words](https://github.com/Di-Abhi/LeetCode/tree/master/0648-replace-words) |
@@ -176,10 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Di-Abhi/LeetCode/tree/master/0020-valid-parentheses) |
+| [0456-132-pattern](https://github.com/Di-Abhi/LeetCode/tree/master/0456-132-pattern) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Di-Abhi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0456-132-pattern](https://github.com/Di-Abhi/LeetCode/tree/master/0456-132-pattern) |
 | [1046-max-consecutive-ones-iii](https://github.com/Di-Abhi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Di-Abhi/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Di-Abhi/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -291,4 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Di-Abhi/LeetCode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Di-Abhi/LeetCode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
