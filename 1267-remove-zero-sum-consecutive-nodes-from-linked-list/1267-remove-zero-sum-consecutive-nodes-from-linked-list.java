@@ -10,28 +10,22 @@
  */
 class Solution {
     public ListNode removeZeroSumSublists(ListNode head) {
-        ListNode tmp = new ListNode(0);
-        tmp.next=head;
+        Map<Integer,ListNode> mpp = new HashMap<>();
+        ListNode dmyNode = new ListNode(0,head);
         int presum=0;
-        Map<Integer, ListNode> mpp = new HashMap<>();
-
-        for(ListNode curr=tmp;curr!=null;curr=curr.next){
-            presum+=curr.val;
-            if(mpp.containsKey(presum)){
-                ListNode prev = mpp.get(presum);
-                ListNode del = prev.next;
-                int p = presum+(del!=null?del.val:0);
-                while(p!=presum){
-                    mpp.remove(p);
-                    del=del.next;
-                    p+=(del!=null?del.val:0);
-                }
-                prev.next=curr.next;
-            }else{
-                mpp.put(presum,curr);
-            }
-
+        ListNode temp = dmyNode;
+        while(temp!=null){
+            presum+=temp.val;
+            mpp.put(presum,temp);
+            temp=temp.next;
         }
-        return tmp.next;
+        presum=0;
+        temp=dmyNode;
+        while(temp!=null){
+            presum+=temp.val;
+            temp.next=mpp.get(presum).next;
+            temp=temp.next;
+        }
+        return dmyNode.next;
     }
 }
