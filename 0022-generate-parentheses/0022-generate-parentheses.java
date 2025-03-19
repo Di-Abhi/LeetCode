@@ -4,16 +4,17 @@ class Solution {
         solve("",0,0,n,res);
         return res;
     }
-    private void solve(String curr,int open,int closed,int total,List<String> ans){
+    public List<String> solve(String curr,int open,int close,int total,List<String> ans){
         if(curr.length()==2*total){
             ans.add(curr);
-            return;
+            return ans;
         }
         if(open<total){
-            solve(curr+"(",open+1,closed,total,ans);
+            solve(curr+"(",open+1,close,total,ans);
         }
-        if(closed<open){
-            solve(curr+")",open,closed+1,total,ans);
+        if(close<open){
+            solve(curr+")",open,close+1,total,ans);
         }
+        return ans;
     }
 }
