@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Di-Abhi/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/Di-Abhi/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Di-Abhi/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Di-Abhi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Di-Abhi/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Di-Abhi/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Di-Abhi/LeetCode/tree/master/0455-assign-cookies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Di-Abhi/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Di-Abhi/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Di-Abhi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Di-Abhi/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Di-Abhi/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Di-Abhi/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Di-Abhi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Di-Abhi/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Di-Abhi/LeetCode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/Di-Abhi/LeetCode/tree/master/0455-assign-cookies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
