@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Di-Abhi/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Di-Abhi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Di-Abhi/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Di-Abhi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Di-Abhi/LeetCode/tree/master/0046-permutations) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Di-Abhi/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Di-Abhi/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Di-Abhi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0142-linked-list-cycle-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Di-Abhi/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0229-majority-element-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Di-Abhi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Di-Abhi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Di-Abhi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
