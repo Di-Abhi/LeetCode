@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Di-Abhi/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Di-Abhi/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Di-Abhi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Di-Abhi/LeetCode/tree/master/0134-gas-station) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Di-Abhi/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sliding Window
@@ -311,14 +313,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Di-Abhi/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Di-Abhi/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Di-Abhi/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
