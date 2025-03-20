@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Di-Abhi/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Di-Abhi/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -362,8 +364,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0101-symmetric-tree) |
+| [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
