@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Di-Abhi/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Di-Abhi/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/Di-Abhi/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Di-Abhi/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Di-Abhi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Di-Abhi/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Di-Abhi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2262-solving-questions-with-brainpower](https://github.com/Di-Abhi/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Prefix Sum
 |  |
 | ------- |
