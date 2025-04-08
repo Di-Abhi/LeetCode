@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Di-Abhi/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Di-Abhi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Di-Abhi/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Di-Abhi/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Di-Abhi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Di-Abhi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Di-Abhi/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Di-Abhi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Di-Abhi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Di-Abhi/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Di-Abhi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Di-Abhi/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
