@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Di-Abhi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/Di-Abhi/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Di-Abhi/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Di-Abhi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Di-Abhi/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Di-Abhi/LeetCode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Di-Abhi/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Di-Abhi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/2551-apply-operations-to-an-array) |
