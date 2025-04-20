@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Di-Abhi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/Di-Abhi/LeetCode/tree/master/0648-replace-words) |
 | [0747-min-cost-climbing-stairs](https://github.com/Di-Abhi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/Di-Abhi/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Di-Abhi/LeetCode/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Di-Abhi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Di-Abhi/LeetCode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Di-Abhi/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Di-Abhi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0797-rabbits-in-forest](https://github.com/Di-Abhi/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/Di-Abhi/LeetCode/tree/master/1642-water-bottles) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Di-Abhi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/Di-Abhi/LeetCode/tree/master/0648-replace-words) |
 | [0768-partition-labels](https://github.com/Di-Abhi/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Di-Abhi/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Di-Abhi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Di-Abhi/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Di-Abhi/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Di-Abhi/LeetCode/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/Di-Abhi/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Di-Abhi/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Di-Abhi/LeetCode/tree/master/0890-lemonade-change) |
 ## Trie
 |  |
