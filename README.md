@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Di-Abhi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/Di-Abhi/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1500-count-largest-group](https://github.com/Di-Abhi/LeetCode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/Di-Abhi/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Di-Abhi/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Di-Abhi/LeetCode/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Di-Abhi/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/Di-Abhi/LeetCode/tree/master/1500-count-largest-group) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Di-Abhi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Di-Abhi/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
