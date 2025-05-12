@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Di-Abhi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Di-Abhi/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Di-Abhi/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Di-Abhi/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Di-Abhi/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Di-Abhi/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Di-Abhi/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Di-Abhi/LeetCode/tree/master/1500-count-largest-group) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Di-Abhi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Di-Abhi/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Di-Abhi/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Di-Abhi/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Di-Abhi/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Di-Abhi/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Di-Abhi/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Di-Abhi/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/Di-Abhi/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Di-Abhi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Di-Abhi/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Di-Abhi/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Recursion
 |  |
