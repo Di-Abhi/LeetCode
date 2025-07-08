@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Di-Abhi/LeetCode/tree/master/1656-count-good-triplets) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Di-Abhi/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Di-Abhi/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Di-Abhi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Di-Abhi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Di-Abhi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Di-Abhi/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/Di-Abhi/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Di-Abhi/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Di-Abhi/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Di-Abhi/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Di-Abhi/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Di-Abhi/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Di-Abhi/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Di-Abhi/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Di-Abhi/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Di-Abhi/LeetCode/tree/master/0455-assign-cookies) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Di-Abhi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Di-Abhi/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Di-Abhi/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Di-Abhi/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Di-Abhi/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
