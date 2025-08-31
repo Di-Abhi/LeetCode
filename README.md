@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Di-Abhi/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Di-Abhi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1036-rotting-oranges](https://github.com/Di-Abhi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Di-Abhi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Di-Abhi/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Di-Abhi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Di-Abhi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Di-Abhi/LeetCode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/Di-Abhi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Di-Abhi/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Di-Abhi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Di-Abhi/LeetCode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Di-Abhi/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Di-Abhi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Di-Abhi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Di-Abhi/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
