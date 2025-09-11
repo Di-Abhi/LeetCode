@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Di-Abhi/LeetCode/tree/master/0437-path-sum-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Di-Abhi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Di-Abhi/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Search Tree
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Di-Abhi/LeetCode/tree/master/0437-path-sum-iii) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Di-Abhi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Heap (Priority Queue)
 |  |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/Di-Abhi/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0437-path-sum-iii](https://github.com/Di-Abhi/LeetCode/tree/master/0437-path-sum-iii) |
 | [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Di-Abhi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Di-Abhi/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
