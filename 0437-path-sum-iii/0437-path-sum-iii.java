@@ -2,15 +2,15 @@ class Solution {
     int count = 0;
 
     public int pathSum(TreeNode root, int targetSum) {
-        helperPathSum(root, (long) targetSum, new ArrayList<>());
+        helperPathSum(root, targetSum, new ArrayList<>());
         return count;
     }
 
-    private void helperPathSum(TreeNode root, long targetSum, List<Long> path) {
+    private void helperPathSum(TreeNode root, int targetSum, List<Integer> path) {
         if (root == null)
             return;
 
-        path.add((long) root.val);
+        path.add( root.val);
         long sum = 0;
 
         for (int i = path.size() - 1; i >= 0; i--) {
