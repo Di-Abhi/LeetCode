@@ -547,11 +547,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Di-Abhi/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Di-Abhi/LeetCode/tree/master/0547-number-of-provinces) |
 | [2793-count-the-number-of-complete-components](https://github.com/Di-Abhi/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Di-Abhi/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Di-Abhi/LeetCode/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Di-Abhi/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Di-Abhi/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Di-Abhi/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Di-Abhi/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Di-Abhi/LeetCode/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/Di-Abhi/LeetCode/tree/master/0547-number-of-provinces) |
 | [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Di-Abhi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Di-Abhi/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Di-Abhi/LeetCode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Di-Abhi/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Di-Abhi/LeetCode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Di-Abhi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Di-Abhi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
