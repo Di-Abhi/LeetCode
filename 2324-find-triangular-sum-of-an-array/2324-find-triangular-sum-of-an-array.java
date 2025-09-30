@@ -1,15 +1,10 @@
 class Solution {
-    private int[] helper(int[] ans,int n){
-        for(int i=0;i<n-1;i++){
-            ans[i]=(ans[i]+ans[i+1])%10;
-        }
-        return ans;
-    }
     public int triangularSum(int[] nums) {
-        int n= nums.length;
-        while(n>0){
-            helper(nums,n);
-            n--;
+        int n=nums.length;
+        for(int size=n;size>1;size--){
+            for(int i=0;i<size-1;i++){
+                nums[i]=(nums[i]+nums[i+1])%10;
+            }
         }
         return nums[0];
     }
