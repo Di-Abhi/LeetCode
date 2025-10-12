@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Di-Abhi/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Di-Abhi/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Di-Abhi/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Di-Abhi/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Di-Abhi/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Di-Abhi/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3830-find-closest-person](https://github.com/Di-Abhi/LeetCode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Di-Abhi/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Di-Abhi/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Di-Abhi/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Di-Abhi/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Di-Abhi/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Di-Abhi/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Di-Abhi/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Di-Abhi/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Di-Abhi/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
 | ------- |
@@ -650,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Di-Abhi/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Di-Abhi/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Di-Abhi/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
 |  |
 | ------- |
@@ -681,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Di-Abhi/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Di-Abhi/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
