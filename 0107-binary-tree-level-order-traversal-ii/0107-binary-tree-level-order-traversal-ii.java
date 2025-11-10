@@ -18,7 +18,7 @@ class Solution {
         List<List<Integer>> ans =new ArrayList<>();
         if(root==null) return ans;
         Queue<TreeNode> q = new LinkedList<>();
-        Stack<List<Integer>> s = new Stack<>();
+        // Stack<List<Integer>> s = new Stack<>();
         q.offer(root);
         while(!q.isEmpty()){
             int item = q.size();
@@ -28,11 +28,12 @@ class Solution {
                 if(q.peek().right!=null)q.offer(q.peek().right);
                 res.add(q.poll().val);
             }
-            s.push(res);
+            // s.push(res);
+            ans.add(0,res);
         }
-        while(!s.isEmpty()){
-            ans.add(s.pop());
-        }
+        // while(!s.isEmpty()){
+        //     ans.add(s.pop());
+        // }
         return ans;
     }
 }
