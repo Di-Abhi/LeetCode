@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/Di-Abhi/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Di-Abhi/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Di-Abhi/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Di-Abhi/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Di-Abhi/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Di-Abhi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Di-Abhi/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/Di-Abhi/LeetCode/tree/master/0456-132-pattern) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Di-Abhi/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Binary Search
 |  |
 | ------- |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Di-Abhi/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Di-Abhi/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Di-Abhi/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Di-Abhi/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
