@@ -8,7 +8,6 @@ class Solution {
             for(int j=i+1;j<nums.length;j++){
                 rightSum+=nums[j];
             }
-            System.out.println(leftSum-rightSum);
             if((Math.abs(leftSum-rightSum))%2==0){
                 cnt++; 
             }
