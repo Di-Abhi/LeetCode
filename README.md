@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Di-Abhi/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Di-Abhi/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Di-Abhi/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Di-Abhi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Di-Abhi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Di-Abhi/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Di-Abhi/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Di-Abhi/LeetCode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Di-Abhi/LeetCode/tree/master/0768-partition-labels) |
+| [0977-squares-of-a-sorted-array](https://github.com/Di-Abhi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Di-Abhi/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Di-Abhi/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Di-Abhi/LeetCode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/Di-Abhi/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Di-Abhi/LeetCode/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/Di-Abhi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Di-Abhi/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Di-Abhi/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
