@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Di-Abhi/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Di-Abhi/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Di-Abhi/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Di-Abhi/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Di-Abhi/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Di-Abhi/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Di-Abhi/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Di-Abhi/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Di-Abhi/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3430-count-days-without-meetings](https://github.com/Di-Abhi/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Di-Abhi/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Di-Abhi/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Di-Abhi/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Di-Abhi/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Di-Abhi/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Di-Abhi/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Di-Abhi/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Di-Abhi/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Di-Abhi/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
