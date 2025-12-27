@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Di-Abhi/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Di-Abhi/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2402-meeting-rooms-iii](https://github.com/Di-Abhi/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2478-longest-nice-subarray](https://github.com/Di-Abhi/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Di-Abhi/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Di-Abhi/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Di-Abhi/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2402-meeting-rooms-iii](https://github.com/Di-Abhi/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Di-Abhi/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Di-Abhi/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Di-Abhi/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Di-Abhi/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2402-meeting-rooms-iii](https://github.com/Di-Abhi/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Di-Abhi/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Di-Abhi/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Di-Abhi/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Di-Abhi/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Di-Abhi/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2402-meeting-rooms-iii](https://github.com/Di-Abhi/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Di-Abhi/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Di-Abhi/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Di-Abhi/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/Di-Abhi/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/Di-Abhi/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2402-meeting-rooms-iii](https://github.com/Di-Abhi/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Di-Abhi/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Quickselect
 |  |
