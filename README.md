@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Di-Abhi/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Di-Abhi/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Di-Abhi/LeetCode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Di-Abhi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Di-Abhi/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Di-Abhi/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Di-Abhi/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/Di-Abhi/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Di-Abhi/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Di-Abhi/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Di-Abhi/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Di-Abhi/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Di-Abhi/LeetCode/tree/master/1500-count-largest-group) |
