@@ -32,10 +32,9 @@ class Solution {
             }
             level++;
             if(sum>maxSum){
-                maxSum=Math.max(sum,maxSum);
+                maxSum=sum;
                 maxLevel=level;
             }
-            sum=0;
         }
         return maxLevel;
     }
