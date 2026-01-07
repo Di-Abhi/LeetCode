@@ -15,7 +15,7 @@
  */
 class Solution {
     long max = Long.MIN_VALUE;
-    static final int MOD = 1_000_000_007;
+    int MOD = 1_000_000_007;
     public long totalSum(TreeNode root){
         if(root == null) return 0;
         long left = totalSum(root.left);
