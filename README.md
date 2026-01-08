@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Di-Abhi/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Di-Abhi/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Di-Abhi/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Di-Abhi/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Di-Abhi/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Di-Abhi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Di-Abhi/LeetCode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Di-Abhi/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Di-Abhi/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Di-Abhi/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Di-Abhi/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Di-Abhi/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
