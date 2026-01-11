@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Di-Abhi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Di-Abhi/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Di-Abhi/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Di-Abhi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Di-Abhi/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Di-Abhi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Di-Abhi/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Di-Abhi/LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Di-Abhi/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Di-Abhi/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Di-Abhi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Di-Abhi/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Di-Abhi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Di-Abhi/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Di-Abhi/LeetCode/tree/master/0456-132-pattern) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Di-Abhi/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Binary Search
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Di-Abhi/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Di-Abhi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Di-Abhi/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Di-Abhi/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Di-Abhi/LeetCode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Di-Abhi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Di-Abhi/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Di-Abhi/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Di-Abhi/LeetCode/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
