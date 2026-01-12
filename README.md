@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Di-Abhi/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Di-Abhi/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Di-Abhi/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1470-shuffle-the-array](https://github.com/Di-Abhi/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Di-Abhi/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Di-Abhi/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Di-Abhi/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
