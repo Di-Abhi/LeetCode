@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Di-Abhi/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Di-Abhi/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Di-Abhi/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-largest-magic-square](https://github.com/Di-Abhi/LeetCode/tree/master/1895-largest-magic-square) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/Di-Abhi/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1975-maximum-matrix-sum) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Di-Abhi/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Di-Abhi/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1895-largest-magic-square](https://github.com/Di-Abhi/LeetCode/tree/master/1895-largest-magic-square) |
 | [2249-count-the-hidden-sequences](https://github.com/Di-Abhi/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Di-Abhi/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Di-Abhi/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Di-Abhi/LeetCode/tree/master/1036-rotting-oranges) |
 | [1104-coloring-a-border](https://github.com/Di-Abhi/LeetCode/tree/master/1104-coloring-a-border) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Di-Abhi/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/Di-Abhi/LeetCode/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Di-Abhi/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Di-Abhi/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Di-Abhi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
