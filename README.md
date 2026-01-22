@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Di-Abhi/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Di-Abhi/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Di-Abhi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/Di-Abhi/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0648-replace-words](https://github.com/Di-Abhi/LeetCode/tree/master/0648-replace-words) |
 | [0768-partition-labels](https://github.com/Di-Abhi/LeetCode/tree/master/0768-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Di-Abhi/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
