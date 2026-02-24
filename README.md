@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/Di-Abhi/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Di-Abhi/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Di-Abhi/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3842-toggle-light-bulbs](https://github.com/Di-Abhi/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Di-Abhi/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Di-Abhi/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Di-Abhi/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Di-Abhi/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3842-toggle-light-bulbs](https://github.com/Di-Abhi/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Hash Table
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Di-Abhi/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Di-Abhi/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Di-Abhi/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3842-toggle-light-bulbs](https://github.com/Di-Abhi/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Di-Abhi/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/Di-Abhi/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Di-Abhi/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Di-Abhi/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Di-Abhi/LeetCode/tree/master/3842-toggle-light-bulbs) |
 ## Counting
 |  |
 | ------- |
